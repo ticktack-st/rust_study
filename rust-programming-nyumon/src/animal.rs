@@ -1,4 +1,4 @@
-fn main() {
+pub fn animal() {
 	let dog = Dog{};
 	let cat = Cat{};
 	show_animal_data(dog);
